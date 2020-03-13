@@ -1,19 +1,33 @@
+body    {
+background: #FFFFFF;
+background: -moz-linear-gradient(top, #FFFFFF 0%, #6CAEF9 50%, #F199FE 100%);
+background: -webkit-linear-gradient(top, #FFFFFF 0%, #6CAEF9 50%, #F199FE 100%);
+background: linear-gradient(to bottom, #FFFFFF 0%, #6CAEF9 50%, #F199FE 100%);
+background-repeat: inherit;
+}
 h1  {
     background-color: pink;
     color: whitesmoke;
     text-align: center;
-    margin: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: auto;
+    margin-bottom: 20px;
 }
 .heading {
     text-align: center;
     border: 3px solid steelblue;
     padding: 6px;
-    margin: 10%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: auto;
+    margin-bottom: auto;
     background-color: pink;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: whitesmoke;
 }
 .heading img    {
-    width: 100%;
+    width: 50%;
     height: auto;
+    border: 6px solid whitesmoke;
 }
