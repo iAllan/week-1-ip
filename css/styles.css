@@ -54,6 +54,9 @@ h1  {
     margin-left: 5%;
     margin-top: 5%;
     margin-bottom: auto;
-    float: right;
+    float: left;
     width: auto;
+}
+.all    {
+    color: black;
 }
