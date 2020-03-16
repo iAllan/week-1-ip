@@ -22,5 +22,5 @@ Floats leave a lot of margin room on the left of the page.
 ## Support and contact details
 If you run into any issues, you can contact me at allenbosire@gmail.com. 
 ### License
-This project is [MIT Licensed]()
+This project is [MIT Licensed](https://github.com/iAllan/week-1-ip/blob/gh-pages/LICENSE.txt)
 Copyright (c) {2020} **{Allan Bosire}**
